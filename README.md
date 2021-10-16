@@ -1,3 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with VUE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
+
+The new version of Vue, the application works with Firebase, serves to display various training programs for users, has the following functionality: registration / authorization, product addition / editing / deletion /, database storage, various filtering methods, etc.
