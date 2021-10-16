@@ -1,5 +1,5 @@
 <p>
- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img src="https://github.com/Mishka-Sakhelashvili/VUE3__DemoApp/blob/master/cover.jpg?raw=true" />
 </p>
 
 # Description
